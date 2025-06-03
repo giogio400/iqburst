@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Welcome to IQBurst</title>
+  <style>
+    body {
+      background-color: #f9f9f9;
+      font-family: sans-serif;
+      text-align: center;
+      padding: 100px;
+    }
+    h1 {
+      color: #333;
+    }
+    p {
+      font-size: 18px;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to IQBurst!</h1>
+  <p>Your future HTML5 IQ game site is under construction 🚀</p>
+</body>
+</html>
